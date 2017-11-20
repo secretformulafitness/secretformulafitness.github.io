@@ -67,6 +67,12 @@ footer .fa {
     width: 35px;
     font-size: 23px;
 }
+.modal {
+    height: 100vh;
+    max-height: 100vh;
+    width: 100%;
+    top: 0 !important;
+}
 @media only screen and (max-width: 500px) {
     .center-mobile {
         text-align: center;
