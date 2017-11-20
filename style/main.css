@@ -67,3 +67,20 @@ footer .fa {
     width: 35px;
     font-size: 23px;
 }
+@media only screen and (max-width: 500px) {
+    .center-mobile {
+        text-align: center;
+    }
+    .huge {
+        font-size: 70px;
+    }
+    .page-header {
+        padding: 50px 0!important;
+    }
+    nav {
+        height: 65px;
+    }
+    .materialboxed {
+        padding-bottom: 15px;
+    }
+}
