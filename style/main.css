@@ -1,0 +1,69 @@
+.btn {
+    border-radius: 50px;
+}
+html, body, * {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.home-bg {
+    background: #000000;
+    background-image: url(../images/service1.jpg);
+    background-image: -webkit-linear-gradient(rgba(0,0, 0,.65),rgba(0,0, 0,.85)),url(../images/service1.jpg);
+    background-image: linear-gradient(rgba(0,0, 0,.35),rgba(0,0, 0,.55)),url(../images/service1.jpg);
+    background-size: cover;
+    background-position: top center !important;
+}
+.results-bg {
+    background: #000000;
+    background-image: url(../images/lift-3.jpg);
+    background-image: -webkit-linear-gradient(rgba(0,0, 0,.65),rgba(0,0, 0,.85)),url(../images/lift-3.jpg);
+    background-image: linear-gradient(rgba(56,170, 223,.55),rgba(56,170, 223,.55)),url(../images/lift-3.jpg);
+    background-size: cover;
+    background-position: top center !important;
+}
+.lift-bg {
+    background: #000000;
+    background-image: url(../images/lift-2.jpg);
+    background-image: -webkit-linear-gradient(rgba(255,255, 255,.65),rgba(255,255, 255, .85)),url(../images/lift-2.jpg);
+    background-image: linear-gradient(rgba(0,0, 0,.3),rgba(0,0, 0,.65)),url(../images/lift-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center !important;
+}
+.page-header {
+    padding: 200px 0!important;
+    height: 100%;
+}
+.blue {
+    background-color: #38aadf !important;
+}
+.btn-border {
+    border: 2px solid white;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.thin {
+    font-weight: 300;
+}
+.bold {
+    font-weight: 900;
+}
+.huge {
+    font-size: 90px;
+}
+.m0 {
+    margin: 0 !important;
+}
+.blue-border {
+    border: 2px solid #38aadf;
+    font-weight: 900;
+}
+footer .fa {
+
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+    height: 35px;
+    width: 35px;
+    font-size: 23px;
+}
