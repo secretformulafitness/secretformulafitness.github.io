@@ -83,4 +83,13 @@ footer .fa {
     .materialboxed {
         padding-bottom: 15px;
     }
+    .home-bg {
+        background-position: top left !important;
+    }
+    .results-bg {
+        background: #38aadf;
+    }
+    .lift-bg {
+        background-size: cover;
+    }
 }
