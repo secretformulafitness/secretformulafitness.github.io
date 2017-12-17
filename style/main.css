@@ -99,3 +99,10 @@ footer .fa {
         background-size: cover;
     }
 }
+
+.promo i {
+    margin: 40px 0;
+    color: #38aadf;
+    font-size: 5rem;
+    display: block;
+}
