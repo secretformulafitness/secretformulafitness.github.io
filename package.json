@@ -1,0 +1,23 @@
+{
+  "name": "secretformulafitness.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secretformulafitness/secretformulafitness.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secretformulafitness/secretformulafitness.github.io/issues"
+  },
+  "homepage": "https://github.com/secretformulafitness/secretformulafitness.github.io#readme",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
